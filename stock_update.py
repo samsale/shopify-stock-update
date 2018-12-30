@@ -8,11 +8,11 @@ import math
 import os
 import time
 
-api_key = '504c14a434d42d87db6ad111f22fb1cb'
-password = '3a83a71ec14949dc43f40fff3244e95d'
+api_key = ''
+password = ''
 
 username = 'sales@rubys-garden-boutique.co.uk'
-pw = 'Mummys6912'
+pw = ''
 save_path = '/'
 
 
